@@ -1,0 +1,5 @@
+city,grid,emission_factor_kgco2_per_kwh
+Delhi NCR,North,0.82
+Ahmedabad,West,0.79
+Kolkata,East,0.94
+Bengaluru,South,0.79
